@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e8c482faf91af2b9","type":"text","text":"Advanced numerical methods","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"8cd3c17dd517c2c5","type":"text","text":"Inżynieria finansowa 2","x":-125,"y":-320,"width":250,"height":60},
+		{"id":"30ef3e79132b8701","x":-880,"y":-320,"width":250,"height":60,"type":"text","text":"Inżynieria finansowa 1"},
+		{"id":"450f5835eda78e14","x":-125,"y":-660,"width":250,"height":127,"type":"text","text":"Miary ryzyka w matematyce finansowej i ubezpieczeniowej"},
+		{"id":"2ce8f69c2ace603d","x":-880,"y":-626,"width":250,"height":60,"type":"text","text":"Rachunek prawdopodobieństwa 1"},
+		{"id":"16371d2e765ecca8","x":-125,"y":-880,"width":250,"height":60,"type":"text","text":"Modelowanie matematyczne w Pythonie"}
+	],
+	"edges":[
+		{"id":"d8b250ef2f15a83a","fromNode":"30ef3e79132b8701","fromSide":"right","toNode":"8cd3c17dd517c2c5","toSide":"left"},
+		{"id":"0348ea67efc7667f","fromNode":"2ce8f69c2ace603d","fromSide":"right","toNode":"450f5835eda78e14","toSide":"left"}
+	]
+}

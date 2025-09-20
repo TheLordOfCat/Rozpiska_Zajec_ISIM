@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "07a82dd6d1a78fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "304c991e4c591599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622e4bfda10a452d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
+                "viewState": {
+                  "x": 1345,
+                  "y": 700.3854973052426,
+                  "zoom": -0.6039225040033718
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Przedmioty obowiązkowe (O) Matematyka"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2ac5a8927dc027f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8cc604c85a1480c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc96b867f91126c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c50c43545af4939",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2363e6d944ad63c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 605.5
+  },
+  "right": {
+    "id": "e41268f2223f10b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0fd9903671097ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f19c667296b37ca0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zaawansowane przedmioty do wyboru (M) Matematyka"
+            }
+          },
+          {
+            "id": "486b058bdaf71f19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Zaawansowane przedmioty do wyboru (M) Matematyka"
+            }
+          },
+          {
+            "id": "bd69e3b5de8a50ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "840a626fe24d990e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Zaawansowane przedmioty do wyboru (M) Matematyka"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "622e4bfda10a452d",
+  "lastOpenFiles": [
+    "Instytut Matematyki/Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+    "Instytut Matematyki/Standardowe przedmioty do wyboru (L) Matematyka.canvas",
+    "Instytut Matematyki/Przedmioty niestandardowe (E) Matematyka.canvas",
+    "Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
+    "Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+    "Przedmioty niestandardowe (E) Matematyka.canvas",
+    "Untitled.md",
+    "Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
+    "Standardowe przedmioty do wyboru (L) Matematyka.canvas",
+    "Przedmioty obowiązkowe (O) Matematyka.canvas",
+    "Welcome.md",
+    "create a link.md",
+    "Standardowe przedmioty do wyboru (L) Matematyka.md"
+  ]
+}

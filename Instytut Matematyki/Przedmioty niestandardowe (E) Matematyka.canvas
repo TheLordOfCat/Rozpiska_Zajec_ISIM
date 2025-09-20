@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6fb16a290ca37fe8","x":220,"y":-420,"width":250,"height":60,"type":"text","text":"E-learning: Bayesian data analysis"},
+		{"id":"5cb4fb26b089f53a","x":-500,"y":-420,"width":250,"height":60,"type":"text","text":"E-learning: Introduction to Bayesian Inference "},
+		{"id":"943c7f01ccdc38c5","x":-500,"y":-680,"width":250,"height":60,"type":"text","text":"E-learning: Computer intensive methods"},
+		{"id":"e52f4b6e9ee0fb81","x":-500,"y":-140,"width":250,"height":60,"type":"text","text":"E-learning: Semiparametric regression"}
+	],
+	"edges":[
+		{"id":"3615a0fae5a1ca33","fromNode":"5cb4fb26b089f53a","fromSide":"right","toNode":"6fb16a290ca37fe8","toSide":"left"}
+	]
+}
