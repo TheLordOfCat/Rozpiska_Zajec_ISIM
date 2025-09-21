@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"2e88073e2ec677b7","x":520,"y":-140,"width":250,"height":60,"type":"text","text":"Języki formalne i złożoność obliczeniowa"},
+		{"id":"03d86377509b5863","x":-500,"y":-460,"width":250,"height":60,"type":"text","text":"Logika dla informatyków"},
+		{"id":"aa7fff5a6c81d8ed","x":-500,"y":-260,"width":250,"height":60,"type":"text","text":"Analiza matematyczna"},
+		{"id":"4a72a546db971fef","x":-500,"y":0,"width":250,"height":60,"type":"text","text":"Algebra"},
+		{"id":"2cfe99f03fc7eff2","x":-500,"y":260,"width":250,"height":60,"type":"text","text":"Matematyka dyskretna"}
+	],
+	"edges":[
+		{"id":"fd600532ca220de9","fromNode":"03d86377509b5863","fromSide":"right","toNode":"2e88073e2ec677b7","toSide":"left"},
+		{"id":"cf72a52628aaa136","fromNode":"aa7fff5a6c81d8ed","fromSide":"right","toNode":"2e88073e2ec677b7","toSide":"left"},
+		{"id":"aa17f38f1a538d3e","fromNode":"4a72a546db971fef","fromSide":"right","toNode":"2e88073e2ec677b7","toSide":"left"},
+		{"id":"d431dad040744004","fromNode":"2cfe99f03fc7eff2","fromSide":"right","toNode":"2e88073e2ec677b7","toSide":"left"}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"d524ed5ee45b59c0","type":"text","text":"Artificial Intelligence 2: Games","x":480,"y":-680,"width":250,"height":60},
+		{"id":"a95ed019a2994756","type":"text","text":"Sztuczna inteligencja","x":-240,"y":-680,"width":250,"height":60},
+		{"id":"565999bfb1b66072","type":"text","text":"Logika cyfrowa","x":-240,"y":-260,"width":250,"height":60},
+		{"id":"9e45f92d1e0d0cca","type":"text","text":"Logika dla informatyków","x":-1020,"y":-340,"width":250,"height":60},
+		{"id":"2d3eaf62165bb9d2","type":"text","text":"Wstęp do informatyki","x":-1020,"y":-140,"width":250,"height":60},
+		{"id":"76001fd9e3400c05","type":"text","text":"Podstawy i zastosowania złożoności obliczeniowej","x":-240,"y":-440,"width":250,"height":60},
+		{"id":"69122c143b5fc0c6","type":"text","text":"Podstawy grafiki komputerowej","x":-240,"y":-920,"width":250,"height":60},
+		{"id":"732d35dff59af167","type":"text","text":"Projektowanie obiektowe oprogramowania","x":-240,"y":-1140,"width":250,"height":60},
+		{"id":"165b63709cbd78bc","type":"text","text":"Systemy wbudowane","x":-240,"y":80,"width":250,"height":60},
+		{"id":"1c94e3951e9e15fd","type":"text","text":"Logika cyfrowa","x":-1020,"y":140,"width":250,"height":60},
+		{"id":"9330387212ad8787","type":"text","text":"Sytemy operacyjne","x":-1020,"y":380,"width":250,"height":60},
+		{"id":"ab5e24449511d15e","type":"text","text":"Algorytmy i struktury danych","x":-1020,"y":-680,"width":250,"height":60},
+		{"id":"c521b468460ecc98","type":"text","text":"lub","x":-560,"y":-675,"width":80,"height":50},
+		{"id":"9a6128eb523e914f","x":-1020,"y":-920,"width":250,"height":60,"type":"text","text":"Analiza matematyczna"},
+		{"id":"e6fae51d09cea20b","x":-240,"y":-1420,"width":250,"height":100,"type":"text","text":"Wybrane elementy praktyki projektowania oprogramowania"}
+	],
+	"edges":[
+		{"id":"73d69c00d426c0e3","fromNode":"a95ed019a2994756","fromSide":"right","toNode":"d524ed5ee45b59c0","toSide":"left"},
+		{"id":"97dd009496f8fc35","fromNode":"9e45f92d1e0d0cca","fromSide":"right","toNode":"565999bfb1b66072","toSide":"left"},
+		{"id":"2e0d99dbc07f7cce","fromNode":"2d3eaf62165bb9d2","fromSide":"right","toNode":"565999bfb1b66072","toSide":"left"},
+		{"id":"9ba76987c225b8cf","fromNode":"9e45f92d1e0d0cca","fromSide":"right","toNode":"76001fd9e3400c05","toSide":"left"},
+		{"id":"55ead91db2172553","fromNode":"2d3eaf62165bb9d2","fromSide":"right","toNode":"165b63709cbd78bc","toSide":"left"},
+		{"id":"e412ea36c98e37af","fromNode":"9330387212ad8787","fromSide":"right","toNode":"165b63709cbd78bc","toSide":"left"},
+		{"id":"c2461b8bf567b9bf","fromNode":"1c94e3951e9e15fd","fromSide":"right","toNode":"165b63709cbd78bc","toSide":"left"},
+		{"id":"f435da1fe83e1814","fromNode":"9e45f92d1e0d0cca","fromSide":"right","toNode":"a95ed019a2994756","toSide":"left"},
+		{"id":"28f05267342a28c0","fromNode":"2d3eaf62165bb9d2","fromSide":"right","toNode":"c521b468460ecc98","toSide":"left"},
+		{"id":"06bfb3336639abe7","fromNode":"ab5e24449511d15e","fromSide":"right","toNode":"c521b468460ecc98","toSide":"left"},
+		{"id":"f2616dfa5be8c447","fromNode":"c521b468460ecc98","fromSide":"right","toNode":"a95ed019a2994756","toSide":"left"},
+		{"id":"406651a936b6d79c","fromNode":"9a6128eb523e914f","fromSide":"right","toNode":"a95ed019a2994756","toSide":"left"}
+	]
+}

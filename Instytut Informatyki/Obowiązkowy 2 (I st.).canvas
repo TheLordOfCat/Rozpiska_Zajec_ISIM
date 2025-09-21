@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"cac784be5a6bb58a","type":"text","text":"Algorytmy i struktury danych (L)","x":500,"y":-560,"width":250,"height":60},
+		{"id":"b80a28518ebbcb46","type":"text","text":"Matematyka dyskretna (L)","x":500,"y":600,"width":250,"height":60},
+		{"id":"d5f724a658b953e7","type":"text","text":"Logika dla Informatyków","x":-620,"y":440,"width":250,"height":60},
+		{"id":"9e01aa4c75e06eda","type":"text","text":"Algebra","x":-620,"y":700,"width":250,"height":60},
+		{"id":"d0ffbdb721c2d53d","type":"text","text":"Kurs programowania","x":-620,"y":-180,"width":250,"height":60},
+		{"id":"64bfcaa4dde03794","type":"text","text":"lub","x":20,"y":-230,"width":80,"height":50},
+		{"id":"b85bbe458a7d61ce","type":"text","text":"Wstęp do Informatyki","x":-620,"y":-380,"width":250,"height":60},
+		{"id":"6a11ce29cc3e9230","type":"text","text":"Matematyka Dyskretna","x":-620,"y":-720,"width":250,"height":60},
+		{"id":"d62dc6832e20a9d1","x":500,"y":340,"width":250,"height":60,"type":"text","text":"Matematyka dyskretna (M)"},
+		{"id":"35518706875ab820","type":"text","text":"Analiza matematyczna","x":-620,"y":240,"width":250,"height":60},
+		{"id":"e427692b45aa7575","type":"text","text":"Algebra liniowa","x":-620,"y":60,"width":250,"height":60},
+		{"id":"667884d6bb7fad9a","type":"text","text":"Analiza numeryczna","x":500,"y":-60,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"72d848a481b43736","fromNode":"b85bbe458a7d61ce","fromSide":"right","toNode":"cac784be5a6bb58a","toSide":"left"},
+		{"id":"8fe7d129ab66f197","fromNode":"6a11ce29cc3e9230","fromSide":"right","toNode":"cac784be5a6bb58a","toSide":"left"},
+		{"id":"4da5ddc2f361ccde","fromNode":"35518706875ab820","fromSide":"right","toNode":"667884d6bb7fad9a","toSide":"left"},
+		{"id":"648f97c843621764","fromNode":"e427692b45aa7575","fromSide":"right","toNode":"667884d6bb7fad9a","toSide":"left"},
+		{"id":"40719fb9a57fad13","fromNode":"d5f724a658b953e7","fromSide":"right","toNode":"b80a28518ebbcb46","toSide":"left"},
+		{"id":"edfaf631073b8242","fromNode":"9e01aa4c75e06eda","fromSide":"right","toNode":"b80a28518ebbcb46","toSide":"left"},
+		{"id":"84dc2c18cb8b794a","fromNode":"35518706875ab820","fromSide":"right","toNode":"b80a28518ebbcb46","toSide":"left"},
+		{"id":"81b492e619f27bbe","fromNode":"b85bbe458a7d61ce","fromSide":"right","toNode":"64bfcaa4dde03794","toSide":"left"},
+		{"id":"006923ac82105f3d","fromNode":"d0ffbdb721c2d53d","fromSide":"right","toNode":"64bfcaa4dde03794","toSide":"left"},
+		{"id":"b2e3d7b8d16d1081","fromNode":"64bfcaa4dde03794","fromSide":"right","toNode":"b80a28518ebbcb46","toSide":"left"},
+		{"id":"0799a2e63c5577b0","fromNode":"d5f724a658b953e7","fromSide":"right","toNode":"d62dc6832e20a9d1","toSide":"left"},
+		{"id":"80b631a31fcdab59","fromNode":"9e01aa4c75e06eda","fromSide":"right","toNode":"d62dc6832e20a9d1","toSide":"left"},
+		{"id":"1d29e29232be419b","fromNode":"35518706875ab820","fromSide":"right","toNode":"d62dc6832e20a9d1","toSide":"left"}
+	]
+}

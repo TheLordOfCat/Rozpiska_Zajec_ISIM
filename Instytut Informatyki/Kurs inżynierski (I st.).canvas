@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"7f04599566512d49","type":"text","text":"Kurs administrowania systemem Linux","x":280,"y":-400,"width":250,"height":60},
+		{"id":"e491ef3349f3ba99","type":"text","text":"Kurs projektowania aplikacji ASP.NET","x":280,"y":-100,"width":250,"height":60},
+		{"id":"224cf0c17b86e463","type":"text","text":"Kurs progarmowania pod Windows w technologii .NET","x":-700,"y":-100,"width":250,"height":60},
+		{"id":"38c5ac2fdcc3ea9b","type":"text","text":"Kurs: Praktyczne aspekty rozwoju oprogramowania","x":280,"y":-660,"width":250,"height":60},
+		{"id":"7c7c236e7f98a1ab","type":"text","text":"Kurs projektowania aplikacji z bazami danych","x":280,"y":-920,"width":250,"height":60},
+		{"id":"8adae080101130bb","type":"text","text":"Kurs: Tworzenie aplikacji frontendowych\n","x":280,"y":200,"width":250,"height":60},
+		{"id":"da584d2af1be4b56","type":"text","text":"Kurs: Wstęp do programowania w języku C","x":-700,"y":100,"width":250,"height":60},
+		{"id":"b991b12e03bf168a","type":"text","text":"Kurs: Wstęp do programowania w języku Python","x":-700,"y":360,"width":250,"height":80},
+		{"id":"c5375dd59c2d4963","type":"text","text":"lub","x":-100,"y":205,"width":80,"height":50},
+		{"id":"abf34eafe54edf2e","x":280,"y":-1120,"width":250,"height":60,"type":"text","text":"Kurs: Zaawansowane technologie Javy"},
+		{"id":"b7de6f7fedf6499b","x":280,"y":-260,"width":250,"height":60,"type":"text","text":"Podstawy elektroniki, elektrotechniki i miernictwa"},
+		{"id":"f28cb12989dfd9eb","x":-700,"y":-260,"width":250,"height":60,"type":"text","text":"Analiza matematyczna"},
+		{"id":"25039560b5fbe4a4","x":280,"y":-1320,"width":250,"height":60,"type":"text","text":"Scala in Practice"}
+	],
+	"edges":[
+		{"id":"3d12fc57650ca948","fromNode":"224cf0c17b86e463","fromSide":"right","toNode":"e491ef3349f3ba99","toSide":"left"},
+		{"id":"1a99e8349d73775e","fromNode":"da584d2af1be4b56","fromSide":"right","toNode":"c5375dd59c2d4963","toSide":"left"},
+		{"id":"913f4bc80468a35d","fromNode":"b991b12e03bf168a","fromSide":"right","toNode":"c5375dd59c2d4963","toSide":"left"},
+		{"id":"7b12fffa133b877d","fromNode":"c5375dd59c2d4963","fromSide":"right","toNode":"8adae080101130bb","toSide":"left"},
+		{"id":"a6de4c19354f4809","fromNode":"f28cb12989dfd9eb","fromSide":"right","toNode":"b7de6f7fedf6499b","toSide":"left"}
+	]
+}

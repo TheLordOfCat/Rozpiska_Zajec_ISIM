@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"68b7fb6a9018c96b","x":580,"y":-240,"width":250,"height":60,"type":"text","text":"Proseminarium: Agile Software Development"},
+		{"id":"5db4cb9e51baa7e1","x":580,"y":60,"width":250,"height":60,"type":"text","text":"Proseminarium: Wizualizacja danych"},
+		{"id":"b62f4b1ab7015f9d","x":580,"y":320,"width":250,"height":120,"type":"text","text":"Proseminarium: Zaawansowane administrowanie systemem Linux"},
+		{"id":"e0098fc3019393ce","x":-500,"y":350,"width":250,"height":60,"type":"text","text":"Kurs administrowania systemem Linux"}
+	],
+	"edges":[
+		{"id":"fec370c0b5f50aa4","fromNode":"e0098fc3019393ce","fromSide":"right","toNode":"b62f4b1ab7015f9d","toSide":"left"}
+	]
+}

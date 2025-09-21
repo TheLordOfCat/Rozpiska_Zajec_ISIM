@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b8fa859817fd3644","x":240,"y":-420,"width":250,"height":60,"type":"text","text":"Algebra"},
+		{"id":"2371b25bb51a843c","x":240,"y":-120,"width":250,"height":60,"type":"text","text":"Analiza matematyczna"},
+		{"id":"6d86e3bf8bb15dcb","x":240,"y":160,"width":250,"height":60,"type":"text","text":"Logika dla informatyków"},
+		{"id":"7b4e33ee87dc300c","x":240,"y":460,"width":250,"height":60,"type":"text","text":"Logika dla informatyków (zaawansowana)"},
+		{"id":"ab8ca57423ebbe94","x":-400,"y":960,"width":250,"height":60,"type":"text","text":"Wstęp do informatyki"},
+		{"id":"bd2dae8babf16b91","x":920,"y":700,"width":250,"height":60,"type":"text","text":"Metody programowania"}
+	],
+	"edges":[
+		{"id":"32c2719eed5cd29e","fromNode":"6d86e3bf8bb15dcb","fromSide":"right","toNode":"bd2dae8babf16b91","toSide":"left"},
+		{"id":"9a175528e09b3187","fromNode":"ab8ca57423ebbe94","fromSide":"right","toNode":"bd2dae8babf16b91","toSide":"left"}
+	]
+}

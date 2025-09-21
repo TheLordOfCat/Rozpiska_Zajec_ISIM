@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"71abceb25b662633","x":380,"y":-380,"width":250,"height":60,"type":"text","text":"Kurs języka Haskell"},
+		{"id":"0c2716619204ddaa","x":-720,"y":-220,"width":250,"height":60,"type":"text","text":"Programowania funkcyjne"},
+		{"id":"197ed624ee988b80","x":-720,"y":-520,"width":250,"height":60,"type":"text","text":"Metody programowania"},
+		{"id":"7da397a63630efe2","x":380,"y":-820,"width":250,"height":60,"type":"text","text":"Kurs programowania gier w silniku Unreal 5"},
+		{"id":"436cdc4c31bd2ad5","x":380,"y":-1040,"width":250,"height":60,"type":"text","text":"Kurs programowania gier w silniku Unity"},
+		{"id":"085274aa009724e8","x":380,"y":-1300,"width":250,"height":60,"type":"text","text":"Kurs języka Rust"},
+		{"id":"54fc70a54ae7c8fe","x":380,"y":160,"width":250,"height":60,"type":"text","text":"Kurs: Praktyczne aspekty sieci komputerowych\n"},
+		{"id":"5538b710d9d14e92","x":-720,"y":160,"width":250,"height":60,"type":"text","text":"Sieci Komputerowe"},
+		{"id":"83891c0b024b4b2b","x":380,"y":500,"width":250,"height":100,"type":"text","text":"Kurs: programowanie sterowników dla systemu Linux"},
+		{"id":"9329f4db0bfba88c","x":-720,"y":520,"width":250,"height":60,"type":"text","text":"Architektury systemów komputerowych"},
+		{"id":"fb0c1b8d50803e22","x":-720,"y":760,"width":250,"height":60,"type":"text","text":"Systemy operacyjne"},
+		{"id":"a5d809c8bc0542b2","x":-720,"y":1000,"width":250,"height":60,"type":"text","text":"Struktura jądra Unix"},
+		{"id":"cf5e246bba2033a5","x":-720,"y":1240,"width":250,"height":60,"type":"text","text":"Systemy wbudowane"},
+		{"id":"fbdb4df1781e2fdf","x":380,"y":1620,"width":250,"height":100,"type":"text","text":"Optymalizacja głębokich sieci neuronowych na urządzenia IoT"},
+		{"id":"3c75f95c106f399a","x":-720,"y":1640,"width":250,"height":60,"type":"text","text":"Machine Learning"}
+	],
+	"edges":[
+		{"id":"00f625c684742748","fromNode":"197ed624ee988b80","fromSide":"right","toNode":"71abceb25b662633","toSide":"left"},
+		{"id":"88b73869f37b5ff4","fromNode":"0c2716619204ddaa","fromSide":"right","toNode":"71abceb25b662633","toSide":"left"},
+		{"id":"8a9de60b72f71776","fromNode":"5538b710d9d14e92","fromSide":"right","toNode":"54fc70a54ae7c8fe","toSide":"left"},
+		{"id":"4c7f002c29e21a24","fromNode":"9329f4db0bfba88c","fromSide":"right","toNode":"83891c0b024b4b2b","toSide":"left"},
+		{"id":"baf015bad3170730","fromNode":"fb0c1b8d50803e22","fromSide":"right","toNode":"83891c0b024b4b2b","toSide":"left"},
+		{"id":"af59b99875364f62","fromNode":"a5d809c8bc0542b2","fromSide":"right","toNode":"83891c0b024b4b2b","toSide":"left"},
+		{"id":"7a012d4b707f2742","fromNode":"cf5e246bba2033a5","fromSide":"right","toNode":"83891c0b024b4b2b","toSide":"left"},
+		{"id":"1c95820a31107814","fromNode":"3c75f95c106f399a","fromSide":"right","toNode":"fbdb4df1781e2fdf","toSide":"left"}
+	]
+}

@@ -11,17 +11,14 @@
             "id": "622e4bfda10a452d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
-                "viewState": {
-                  "x": 1345,
-                  "y": 700.3854973052426,
-                  "zoom": -0.6039225040033718
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Przedmioty obowiązkowe (O) Matematyka"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Informacje",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,21 +170,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "622e4bfda10a452d",
+  "active": "6c50c43545af4939",
   "lastOpenFiles": [
-    "Instytut Matematyki/Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
-    "Instytut Matematyki/Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
-    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
-    "Instytut Matematyki/Standardowe przedmioty do wyboru (L) Matematyka.canvas",
-    "Instytut Matematyki/Przedmioty niestandardowe (E) Matematyka.canvas",
-    "Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
-    "Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
-    "Przedmioty niestandardowe (E) Matematyka.canvas",
-    "Untitled.md",
-    "Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
-    "Standardowe przedmioty do wyboru (L) Matematyka.canvas",
-    "Przedmioty obowiązkowe (O) Matematyka.canvas",
     "Welcome.md",
+    "README.md",
+    "Instytut Informatyki/Zastosowania informatyki (II st.).canvas",
+    "Instytut Informatyki/Kurs inżynierski (I st.).canvas",
+    "Instytut Informatyki/Kurs zaawansowany (II st.).canvas",
+    "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
+    "Instytut Informatyki/Obowiązkowy 3 (II st.).canvas",
+    "Instytut Informatyki/Proseminarium (I st.).canvas",
+    "Instytut Informatyki/Teoria informatyki (II st.).canvas",
+    "Instytut Informatyki/Seminarium (II st.).canvas",
+    "Instytut Matematyki/Standardowe przedmioty do wyboru (L) Matematyka.canvas",
+    "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
+    "Untitled.md",
     "create a link.md",
     "Standardowe przedmioty do wyboru (L) Matematyka.md"
   ]
