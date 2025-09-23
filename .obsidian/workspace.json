@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "304c991e4c591599",
+        "id": "5aedd172646e6e50",
         "type": "tabs",
         "children": [
           {
-            "id": "622e4bfda10a452d",
+            "id": "ecafa688e4127649",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Instytut Informatyki/Informatyczny (I st.).canvas",
+                "viewState": {
+                  "x": 457.86999025799025,
+                  "y": 322.0207324396211,
+                  "zoom": 0.02274589311106634
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Informatyczny (I st.)"
             }
           }
         ]
@@ -74,8 +77,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,20 +172,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c50c43545af4939",
+  "active": "ecafa688e4127649",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md",
-    "Instytut Informatyki/Zastosowania informatyki (II st.).canvas",
+    "Instytut Informatyki/Informatyczny inż. (I st.).canvas",
     "Instytut Informatyki/Kurs inżynierski (I st.).canvas",
-    "Instytut Informatyki/Kurs zaawansowany (II st.).canvas",
-    "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
-    "Instytut Informatyki/Obowiązkowy 3 (II st.).canvas",
-    "Instytut Informatyki/Proseminarium (I st.).canvas",
+    "Instytut Informatyki/Zastosowania informatyki (II st.).canvas",
     "Instytut Informatyki/Teoria informatyki (II st.).canvas",
     "Instytut Informatyki/Seminarium (II st.).canvas",
-    "Instytut Matematyki/Standardowe przedmioty do wyboru (L) Matematyka.canvas",
+    "Instytut Informatyki/Obowiązkowy 2 (I st.).canvas",
+    "Instytut Informatyki/Obowiązkowy 3 (II st.).canvas",
+    "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
     "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+    "README.md",
+    "Welcome.md",
+    "Instytut Informatyki/Kurs zaawansowany (II st.).canvas",
     "Untitled.md",
     "create a link.md",
     "Standardowe przedmioty do wyboru (L) Matematyka.md"
