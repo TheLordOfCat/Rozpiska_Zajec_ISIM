@@ -13,15 +13,49 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Instytut Informatyki/Informatyczny (I st.).canvas",
+                "file": "Plan ISIM/Plan A TheLordOfCats.canvas",
                 "viewState": {
-                  "x": 457.86999025799025,
-                  "y": 322.0207324396211,
-                  "zoom": 0.02274589311106634
+                  "x": -1012.4909158140111,
+                  "y": -2663.9944938075514,
+                  "zoom": -2.3558859410461137
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Informatyczny (I st.)"
+              "title": "Plan A TheLordOfCats"
+            }
+          },
+          {
+            "id": "5ca5526723826496",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+                "viewState": {
+                  "x": 749.0840328399831,
+                  "y": 539.6540338372256,
+                  "zoom": -0.6000000000000001
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Zaawansowane przedmioty do wyboru (M) Matematyka"
+            }
+          },
+          {
+            "id": "7b87e24cde38ab00",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Instytut Matematyki/Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
+                "viewState": {
+                  "x": 234.07052722464314,
+                  "y": 2009.5971370895204,
+                  "zoom": -0.42592238404905736
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka"
             }
           }
         ]
@@ -56,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Informacje",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,20 +208,25 @@
   },
   "active": "ecafa688e4127649",
   "lastOpenFiles": [
-    "Instytut Informatyki/Informatyczny inż. (I st.).canvas",
-    "Instytut Informatyki/Kurs inżynierski (I st.).canvas",
-    "Instytut Informatyki/Zastosowania informatyki (II st.).canvas",
-    "Instytut Informatyki/Teoria informatyki (II st.).canvas",
-    "Instytut Informatyki/Seminarium (II st.).canvas",
-    "Instytut Informatyki/Obowiązkowy 2 (I st.).canvas",
-    "Instytut Informatyki/Obowiązkowy 3 (II st.).canvas",
-    "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
-    "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
-    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
     "README.md",
+    "Plan ISIM/Plan A TheLordOfCats.canvas",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
+    "Instytut Matematyki/Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
+    "Instytut Matematyki/Standardowe przedmioty do wyboru (L) Matematyka.canvas",
+    "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
+    "Instytut Informatyki/Informatyczny inż. (I st.).canvas",
+    "Instytut Informatyki/Informatyczny (I st.).canvas",
+    "Instytut Matematyki/Przedmioty niestandardowe (E) Matematyka.canvas",
+    "Plan ISIM/Program ISIM.pdf",
+    "Plan ISIM/Program Kierunku Matematyka.pdf",
+    "Program Kierunku Matematyka.pdf",
+    "Plan ISIM/Informator ISIM.pdf",
+    "Plan ISIM/Komentarz ISIM.pdf",
+    "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
+    "Plan ISIM/Plan FJ A.md",
+    "Plan ISIM",
     "Welcome.md",
-    "Instytut Informatyki/Kurs zaawansowany (II st.).canvas",
-    "Untitled.md",
     "create a link.md",
     "Standardowe przedmioty do wyboru (L) Matematyka.md"
   ]
