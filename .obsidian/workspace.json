@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5aedd172646e6e50",
+        "id": "54d29a0d064c3055",
         "type": "tabs",
         "children": [
           {
-            "id": "ecafa688e4127649",
+            "id": "98e20e5e4bca7df7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Plan ISIM/Plan A TheLordOfCats.canvas",
                 "viewState": {
-                  "x": 5844.469704103203,
-                  "y": -25.0956642459538,
-                  "zoom": -1.8000000000000003
+                  "x": 5647.994730646728,
+                  "y": 466.43409138522486,
+                  "zoom": -0.8000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Plan A TheLordOfCats"
-            }
-          },
-          {
-            "id": "0919a0b29484cd37",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Plan ISIM/Program ISIM.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Program ISIM"
-            }
-          },
-          {
-            "id": "5ca5526723826496",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
-                "viewState": {
-                  "x": 199.35958082786476,
-                  "y": 27.649793296713796,
-                  "zoom": -0.20000000000000007
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Zaawansowane przedmioty do wyboru (M) Matematyka"
             }
           }
         ]
@@ -201,11 +172,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ecafa688e4127649",
+  "active": "98e20e5e4bca7df7",
   "lastOpenFiles": [
     "Plan ISIM/Program ISIM.pdf",
-    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
     "Plan ISIM/Plan A TheLordOfCats.canvas",
+    "Plan ISIM/Komentarz ISIM.pdf",
+    "Plan ISIM/Informator ISIM.pdf",
+    "Instytut Matematyki/Zaawansowane przedmioty do wyboru (M) Matematyka.canvas",
     "Instytut Matematyki/Podstawowe przedmioty do wyboru dla spec. teoretycznej (T) Matematyka.canvas",
     "README.md",
     "Instytut Matematyki/Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
@@ -216,8 +189,6 @@
     "Instytut Matematyki/Przedmioty niestandardowe (E) Matematyka.canvas",
     "Plan ISIM/Program Kierunku Matematyka.pdf",
     "Program Kierunku Matematyka.pdf",
-    "Plan ISIM/Informator ISIM.pdf",
-    "Plan ISIM/Komentarz ISIM.pdf",
     "Instytut Informatyki/Obowiązkowy 1 (I st.).canvas",
     "Plan ISIM/Plan FJ A.md",
     "Plan ISIM",
