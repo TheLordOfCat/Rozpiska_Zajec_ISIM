@@ -11,20 +11,33 @@
             "id": "98e20e5e4bca7df7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Plan ISIM/Program Kierunku Matematyka.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Program Kierunku Matematyka"
+            }
+          },
+          {
+            "id": "46b270251123db92",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Plan ISIM/Plan A TheLordOfCats.canvas",
                 "viewState": {
-                  "x": 5027.000115487506,
-                  "y": 568.8270153793092,
-                  "zoom": -0.7184361474349386
+                  "x": 6204.434792098012,
+                  "y": -1849.8208091263314,
+                  "zoom": -0.9717302836854612
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Plan A TheLordOfCats"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +185,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "98e20e5e4bca7df7",
+  "active": "46b270251123db92",
   "lastOpenFiles": [
+    "Plan ISIM/Program Kierunku Matematyka.pdf",
     "Plan ISIM/Program ISIM.pdf",
     "Plan ISIM/Plan A TheLordOfCats.canvas",
     "Instytut Matematyki/Przedmioty obowiązkowe (O) Matematyka.canvas",
@@ -188,7 +202,6 @@
     "README.md",
     "Instytut Matematyki/Zaawansowane przedmioty do wyboru, Seminaria przelądowe (S) Matematyka.canvas",
     "Instytut Informatyki/Informatyczny inż. (I st.).canvas",
-    "Plan ISIM/Program Kierunku Matematyka.pdf",
     "Program Kierunku Matematyka.pdf",
     "Plan ISIM/Plan FJ A.md",
     "Plan ISIM",
