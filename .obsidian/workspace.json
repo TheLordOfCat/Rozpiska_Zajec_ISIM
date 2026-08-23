@@ -27,9 +27,9 @@
               "state": {
                 "file": "Plan ISIM/Plan A TheLordOfCats.canvas",
                 "viewState": {
-                  "x": 6204.434792098012,
-                  "y": -1849.8208091263314,
-                  "zoom": -0.9717302836854612
+                  "x": 7443.691546322583,
+                  "y": -2105.408813418702,
+                  "zoom": -0.9717302836854613
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -57,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
